@@ -1,3 +1,4 @@
+<div style="text-align: left;">
 Consider dated C++ comments, which are the usual C++ comments with a mandatory date
 in DD/MM/YYYY format occurring anywhere in the first line of the comment; D, M, Y can be
 any decimal digits. Here are some examples:
@@ -8,3 +9,4 @@ There shuld be no more erors. */
 This Python program dcom rm.py is designed to remove all comments from a C++ program. The program
 should work as follows:
 $ python dcom_rm.py inputC.cpp inputC_rm.cpp
+</div>
